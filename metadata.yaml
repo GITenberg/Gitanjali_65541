@@ -1,0 +1,28 @@
+_repo: Gitanjali_65541
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Gothein, Marie Luise
+    gutenberg_agent_id: '53395'
+    url: http://www.gutenberg.org/2009/agents/53395
+creator:
+  author:
+    agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: https://en.wikipedia.org/wiki/Rabindranath_Tagore
+description: ''
+gutenberg_issued: '2021-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65541'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Gitanjali
+url: http://www.gutenberg.org/ebooks/65541
