@@ -5,6 +5,9 @@ contributor:
     agent_name: Gothein, Marie Luise
     gutenberg_agent_id: '53395'
     url: http://www.gutenberg.org/2009/agents/53395
+covers:
+- cover_type: archival
+  image_path: 65541-h/images/cover.jpg
 creator:
   author:
     agent_name: Tagore, Rabindranath
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/942
     wikipedia: https://en.wikipedia.org/wiki/Rabindranath_Tagore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65541#Gitanjali
 gutenberg_issued: '2021-06-07'
 gutenberg_type: Text
 identifiers:
